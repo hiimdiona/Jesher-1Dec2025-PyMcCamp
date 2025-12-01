@@ -53,3 +53,22 @@ def obby1():
 player.on_chat("obby1",obby1)
 
 ################## On Chat Commands Section #####################
+def obby1():
+    agent.move(FORWARD,4)
+    agent.turn(LEFT)
+    agent.move(FORWARD,5)
+    agent.turn(RIGHT)
+    agent.move(FORWARD,3)
+    agent.move(UP,1)
+    agent.move(FORWARD,1)
+    agent.move(UP,1)
+    agent.move(FORWARD,1)
+    agent.move(UP,1)
+    agent.move(FORWARD,3)
+    agent.move(DOWN,1)
+    agent.move(FORWARD,1)
+    agent.move(DOWN,1)
+    agent.move(FORWARD,1)
+    agent.move(DOWN,1)
+    agent.move(FORWARD,1)
+player.on_chat("obby1",obby1)
