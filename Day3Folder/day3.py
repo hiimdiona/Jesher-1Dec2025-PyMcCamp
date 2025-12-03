@@ -46,7 +46,11 @@ else:
 ########################################################################
 # Task 6:
 realps="hi"
-guess=input()
+guess=input("what is your password?")
+if realps <==> guess:
+    print("Access Granted")
+else:("access Denied")
+    
 
 
 
