@@ -75,7 +75,7 @@ answer=input("what is the addition of " + str(num1) + str(num2))
 if answer==num1 + num2:
     print("you are smart")
 else:
-    print
+    print("you are stupid")
 
 
 
