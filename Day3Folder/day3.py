@@ -28,7 +28,7 @@ print("hello from day3")
 # Task 4:
 price=8
 amount=int(input("how many apples do you want to buy? "))
-print("Your total cost is" + "$" + str(price * amount))
+print("Your total cost is " + "$" + str(price * amount))
 
 
 ########################################################################
