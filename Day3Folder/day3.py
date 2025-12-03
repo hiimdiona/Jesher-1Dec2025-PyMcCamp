@@ -21,8 +21,7 @@ print(myname2, "bought", int(num_pens), "pens.")
 ########################################################################
 # Task 3:
 num1=int(input("what is your number? "))
-num2=int(input("what is your second number? "))
-print(str(num1) + "+" + str(num2) + "=" + str(num1 + num2))
+#print(str(num1) + "+" + str(num2) + "=" + str(num1 + num2))
 
 
 
@@ -30,7 +29,7 @@ print(str(num1) + "+" + str(num2) + "=" + str(num1 + num2))
 # Task 4:
 price=8
 amount=int(input("how many apples do you want to buy? "))
-print=("Your total cost is" + "$" + str(price))
+print=("Your total cost is" + "$" + str(price * amount))
 
 
 ########################################################################
