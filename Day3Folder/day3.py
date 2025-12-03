@@ -45,9 +45,9 @@ print("hello from day3")
 
 ########################################################################
 # Task 6:
-tries=0
-realps="hi"
-guess=input("what is your password? ")
+#tries=0
+#realps="hi"
+#guess=input("what is your password? ")
 #if guess != "hi":
     #tries + 1
 #if tries == 3:
