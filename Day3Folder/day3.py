@@ -12,8 +12,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-myname2 = "jesher"
-num_pens = 9
+#myname2 = "jesher"
+#num_pens = 9
 #print(myname2, "bought", int(num_pens), "pens.")
 
 
