@@ -33,14 +33,14 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-age1=int(input("what is your age? "))
-age2=int(input("what is your age? "))
-if age1==age2:
-    print("you all are the same age!")
-elif age1 < age2:
-    print("You are older than the previous person!")
-else:
-    print("you are younger than the previous person!")
+#age1=int(input("what is your age? "))
+#age2=int(input("what is your age? "))
+#if age1==age2:
+    #print("you all are the same age!")
+#elif age1 < age2:
+    #print("You are older than the previous person!")
+#else:
+    #print("you are younger than the previous person!")
 
 
 ########################################################################
