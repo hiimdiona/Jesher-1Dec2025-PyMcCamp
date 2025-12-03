@@ -72,6 +72,8 @@ for count in range(10):
 num1=random.randint(1,100)
 num2=random.randint(1,100)
 answer=input("what is the addition of " + str(num1) + str(num2))
+if answer==num1 + num2:
+    print
 
 
 
