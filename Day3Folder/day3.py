@@ -48,9 +48,9 @@ print("hello from day3")
 realps="hi"
 guess=input("what is your password? ")
 if realps == guess:
-    print("Access Granted")
-else:
-    print("access Denied")
+    print("access Granted")
+else 
+    print("Access denied")
     
 
 
