@@ -12,9 +12,9 @@ print(mytitle, " "+ myname, "commands the peasants to " + mycom)
 
 ########################################################################
 # Task 2:
-myname2 = jesher
+myname2 = "jesher"
 num_pens = 9
-print()
+print(myname2, " bought ", int(num_pens), " pens.")
 
 
 
