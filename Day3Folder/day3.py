@@ -48,18 +48,22 @@ print("hello from day3")
 tries=0
 realps="hi"
 guess=input("what is your password? ")
+#if guess != "hi":
+    #tries + 1
+#if tries == 3:
 
-if realps == guess:
-    print("access Granted")
-else:
-    print("Access denied")
+#if realps == guess:
+    #print("access Granted")
+#else:
+    #print("Access denied")
     
 
 
 
 ########################################################################
 # Task 7:
-
+for count in range(10):
+    print((random)(randint)(1,100))
 
 
 ########################################################################
