@@ -8,7 +8,7 @@ myname = input("what is your name? ")
 print("oh your name is"+ myname)
 mytitle = input("what is your title? ")
 print("oh your title is" + mytitle)
-mycom = input()
+mycom = input("what is your command?")
 
 
 
