@@ -4,10 +4,10 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-myname = input("what is your name? ")
-mytitle = input("what is your title? ")
-mycom = input("what is your command? ")
-print(mytitle, " "+ myname, "commands the peasants to " + mycom)
+#myname = input("what is your name? ")
+#mytitle = input("what is your title? ")
+#mycom = input("what is your command? ")
+#print(mytitle, " "+ myname, "commands the peasants to " + mycom)
 
 
 ########################################################################
