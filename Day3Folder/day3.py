@@ -30,7 +30,7 @@ print(str(num1) + "+" + str(num2) + "=" + str(num1 + num2))
 # Task 4:
 price=8
 amount=int(input("how many apples do you want to buy? "))
-print=("")
+print=(")
 
 
 ########################################################################
