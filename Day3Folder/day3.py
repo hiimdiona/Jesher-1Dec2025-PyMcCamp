@@ -71,7 +71,7 @@ for count in range(10):
 # Task 8:
 num1=(random.randint(1,100))
 num2=(random.randint(1,100))
-print(int(input)("what is the addition of " + str(num1)))
+print(int(input)("what is the addition of " + str(num1) ))
 
 
 
