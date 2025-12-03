@@ -33,7 +33,7 @@ print("Your total cost is " + "$" + str(price * amount))
 
 ########################################################################
 # Task 5:
-age1+input()
+age1=input("what is your age?")
 
 
 
