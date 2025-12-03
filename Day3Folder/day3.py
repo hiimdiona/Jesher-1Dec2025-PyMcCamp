@@ -20,7 +20,7 @@ print(myname2, "bought", int(num_pens), "pens.")
 
 ########################################################################
 # Task 3:
-num1=input
+num1=input(int)
 
 
 
