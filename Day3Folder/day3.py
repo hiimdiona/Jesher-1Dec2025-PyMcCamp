@@ -50,7 +50,7 @@ guess=input("what is your password?")
 if realps < guess:
     print("Access Granted")
 else:
-    ("access Denied")
+    print("access Denied")
     
 
 
