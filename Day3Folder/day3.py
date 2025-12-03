@@ -45,7 +45,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 6:
-tries
+tries=0
 realps="hi"
 guess=input("what is your password? ")
 if realps == guess:
