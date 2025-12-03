@@ -37,6 +37,7 @@ age1=int(input("what is your age? "))
 age2+int(input("what is your age? "))
 
 
+
 ########################################################################
 # Task 6:
 
