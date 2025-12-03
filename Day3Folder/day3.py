@@ -49,7 +49,6 @@ realps="hi"
 guess=input("what is your password?")
 if realps == guess:
     print("Access Granted")
-
 else:
     print("access Denied")
     
