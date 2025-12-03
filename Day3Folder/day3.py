@@ -4,10 +4,11 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-myname = input("what is your name?")
+myname = input("what is your name? ")
 print("oh your name is"+ myname)
-mytitle = input("what is your title?")
+mytitle = input("what is your title? ")
 print("oh your title is" + mytitle)
+
 
 
 
