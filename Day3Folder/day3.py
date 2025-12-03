@@ -20,8 +20,8 @@ print(myname2, "bought", int(num_pens), "pens.")
 
 ########################################################################
 # Task 3:
-num1=int(input("what is your number?"))
-num2=int(input("what is your number?"))
+num1=int(input("what is your number? "))
+num2=int(input("what is your second number ?"))
 
 
 
