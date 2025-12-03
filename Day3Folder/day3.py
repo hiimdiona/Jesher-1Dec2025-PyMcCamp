@@ -36,7 +36,7 @@ print("Your total cost is " + "$" + str(price * amount))
 age1=int(input("what is your age? "))
 age2+int(input("what is your age? "))
 if (age1 < age2):
-    print
+    print()
 
 
 ########################################################################
